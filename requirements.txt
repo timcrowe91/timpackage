@@ -27,3 +27,8 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# classmates packages
+git+https://github.com/rexelardo/picklethedill
+git+https://github.com/dbristow31/dannybpackage
+git+https://github.com/LuisJR21/luisproject
