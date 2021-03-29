@@ -15,4 +15,4 @@ def try_me():
         except ValueError:
             print("That's not a number, try again")
 
-    return f"{a} + {b} = {a + b}"
+    return f"{a} + {b} = {a + b}. Incredible."
